@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.7)  7 JUN 2023 07:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.7)  7 JUN 2023 07:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -645,81 +645,67 @@ LaTeX Info: Redefining \% on input line 1.
 \tf@toc=\write4
 \openout4 = `Prueba1.toc'.
 
- [1] [2]
-
-c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:86: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86 \newline
-             
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[3]
+ [1] [2] [3]
 <Plano 1.jpeg, id=18, 1240.635pt x 1606.0pt>
 File: Plano 1.jpeg Graphic file (type jpg)
 <use Plano 1.jpeg>
-Package pdftex.def Info: Plano 1.jpeg  used on input line 93.
+Package pdftex.def Info: Plano 1.jpeg  used on input line 92.
 (pdftex.def)             Requested size: 227.62206pt x 294.6548pt.
 <Picture1.png, id=19, 2007.5pt x 2007.5pt>
 File: Picture1.png Graphic file (type png)
 <use Picture1.png>
-Package pdftex.def Info: Picture1.png  used on input line 102.
+Package pdftex.def Info: Picture1.png  used on input line 101.
 (pdftex.def)             Requested size: 227.62206pt x 227.59534pt.
  [4 <./Plano 1.jpeg>]
 <Ensamblaje1_page-0001.jpg, id=24, 2393.1006pt x 1690.1544pt>
 File: Ensamblaje1_page-0001.jpg Graphic file (type jpg)
 <use Ensamblaje1_page-0001.jpg>
-Package pdftex.def Info: Ensamblaje1_page-0001.jpg  used on input line 111.
+Package pdftex.def Info: Ensamblaje1_page-0001.jpg  used on input line 110.
 (pdftex.def)             Requested size: 364.19667pt x 257.20013pt.
 <plano_page-0001.jpg, id=25, 1195.1049pt x 845.0772pt>
 File: plano_page-0001.jpg Graphic file (type jpg)
 <use plano_page-0001.jpg>
-Package pdftex.def Info: plano_page-0001.jpg  used on input line 121.
+Package pdftex.def Info: plano_page-0001.jpg  used on input line 120.
 (pdftex.def)             Requested size: 364.19667pt x 257.5225pt.
  [5 <./Picture1.png> <./Ensamblaje1_page-0001.jpg>] [6 <./plano_page-0001.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 130--132
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 132.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 131.
 (C:\Users\gusta\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 132.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 131.
  (C:\Users\gusta\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 137--141
+Underfull \hbox (badness 10000) in paragraph at lines 136--140
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--148
+Underfull \hbox (badness 10000) in paragraph at lines 144--147
 
  []
 
 [7] [8]
 
-c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:161: LaTeX Error: Lonely \item--perhaps a missing list environment.
+c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:160: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.161     \bibitem{kane1985dynamics}
+l.160     \bibitem{kane1985dynamics}
                                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:161: Undefined control sequence.
+c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:160: Undefined control sequence.
 <argument> \@listctr 
                      
-l.161     \bibitem{kane1985dynamics}
+l.160     \bibitem{kane1985dynamics}
                                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -727,29 +713,29 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:161: You can't use `\relax' after \the.
+c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:160: You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.161     \bibitem{kane1985dynamics}
+l.160     \bibitem{kane1985dynamics}
                                     
 I'm forgetting what you said and using zero instead.
 
 
-c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:164: LaTeX Error: Lonely \item--perhaps a missing list environment.
+c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:163: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.164     \bibitem{meriam2016engineering}
+l.163     \bibitem{meriam2016engineering}
                                          
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:164: Undefined control sequence.
+c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:163: Undefined control sequence.
 <argument> \@listctr 
                      
-l.164     \bibitem{meriam2016engineering}
+l.163     \bibitem{meriam2016engineering}
                                          
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -757,29 +743,29 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:164: You can't use `\relax' after \the.
+c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:163: You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.164     \bibitem{meriam2016engineering}
+l.163     \bibitem{meriam2016engineering}
                                          
 I'm forgetting what you said and using zero instead.
 
 
-c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:167: LaTeX Error: Lonely \item--perhaps a missing list environment.
+c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:166: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.167     \bibitem{hibbeler2017mechanics}
+l.166     \bibitem{hibbeler2017mechanics}
                                          
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:167: Undefined control sequence.
+c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:166: Undefined control sequence.
 <argument> \@listctr 
                      
-l.167     \bibitem{hibbeler2017mechanics}
+l.166     \bibitem{hibbeler2017mechanics}
                                          
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -787,29 +773,29 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:167: You can't use `\relax' after \the.
+c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:166: You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.167     \bibitem{hibbeler2017mechanics}
+l.166     \bibitem{hibbeler2017mechanics}
                                          
 I'm forgetting what you said and using zero instead.
 
 
-c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:170: LaTeX Error: Lonely \item--perhaps a missing list environment.
+c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:169: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.170     \bibitem{cadartif2019solidworks}
+l.169     \bibitem{cadartif2019solidworks}
                                           
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:170: Undefined control sequence.
+c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:169: Undefined control sequence.
 <argument> \@listctr 
                      
-l.170     \bibitem{cadartif2019solidworks}
+l.169     \bibitem{cadartif2019solidworks}
                                           
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -817,10 +803,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:170: You can't use `\relax' after \the.
+c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex:169: You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.170     \bibitem{cadartif2019solidworks}
+l.169     \bibitem{cadartif2019solidworks}
                                           
 I'm forgetting what you said and using zero instead.
 
@@ -829,9 +815,6 @@ LaTeX Info: Redefining \sptext on input line 9.
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
 )
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package logreq Info: Writing requests to 'Prueba1.run.xml'.
 \openout1 = `Prueba1.run.xml'.
 
@@ -845,7 +828,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  72i,7n,77p,825b,1830s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on c:\Users\gusta\OneDrive\Escritorio\Latex1\build\Prueba1.pdf (10 pages, 10705916 bytes).
+Output written on c:\Users\gusta\OneDrive\Escritorio\Latex1\build\Prueba1.pdf (10 pages, 10706144 bytes).
 PDF statistics:
  91 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

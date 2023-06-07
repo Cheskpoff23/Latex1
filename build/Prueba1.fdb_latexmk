@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber build/Prueba1"] 1686140904 "build/Prueba1.bcf" "build/Prueba1.bbl" "build/Prueba1" 1686141499 0
+["biber build/Prueba1"] 1686140904 "build/Prueba1.bcf" "build/Prueba1.bbl" "build/Prueba1" 1686141654 0
   "./referencias.bib" 1686140584 824 6815f8939980934899a86a78661d83f0 ""
-  "build/Prueba1.bcf" 1686141497 107352 c86ac4b2a55125d31b9ba31ec04858e0 "pdflatex"
+  "build/Prueba1.bcf" 1686141653 107352 c86ac4b2a55125d31b9ba31ec04858e0 "pdflatex"
   (generated)
   "build/Prueba1.bbl"
   "build/Prueba1.blg"
   (rewritten before read)
-["pdflatex"] 1686141493 "c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex" "build/Prueba1.pdf" "Prueba1" 1686141499 2
+["pdflatex"] 1686141649 "c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex" "build/Prueba1.pdf" "Prueba1" 1686141654 2
   "C:/Users/gusta/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1686140339 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/gusta/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1686114228 23178959 96bd60731b259987fe25c727bffd9048 ""
   "C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -101,12 +101,12 @@
   "Ensamblaje1_page-0001.jpg" 1686135170 5078158 d5c2150bbb06287792cfb7b959909def ""
   "Picture1.png" 1686134348 3779873 3367a1e0ba8aadac3ffbe7d800530749 ""
   "Plano 1.jpeg" 1686133395 72017 bc98fa43a0809726d65ba9cb2efb5ed8 ""
-  "Prueba1.tex" 1686141491 7562 85c8af31d4ab71722ea507f0800b262f ""
-  "build/Prueba1.aux" 1686141497 1616 947e7dc4559a5d8e8319084ff476ee4d "pdflatex"
+  "Prueba1.tex" 1686141648 7552 061d4eaa128fc681aaa614804f89078f ""
+  "build/Prueba1.aux" 1686141653 1616 947e7dc4559a5d8e8319084ff476ee4d "pdflatex"
   "build/Prueba1.bbl" 1686140906 486 ee04f40f768daeed26442158e95aba61 "biber build/Prueba1"
-  "build/Prueba1.run.xml" 1686141497 2327 46dfd3ec97242af3ddefa6e910a01673 "pdflatex"
-  "build/Prueba1.toc" 1686141497 318 3d2d20431451c6e1d5850eeaf365390f "pdflatex"
-  "c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex" 1686141491 7562 85c8af31d4ab71722ea507f0800b262f ""
+  "build/Prueba1.run.xml" 1686141653 2327 46dfd3ec97242af3ddefa6e910a01673 "pdflatex"
+  "build/Prueba1.toc" 1686141653 318 3d2d20431451c6e1d5850eeaf365390f "pdflatex"
+  "c:/Users/gusta/OneDrive/Escritorio/Latex1/Prueba1.tex" 1686141648 7552 061d4eaa128fc681aaa614804f89078f ""
   "plano_page-0001.jpg" 1686135161 674629 a0590352dee8c07f54bed1303c99f379 ""
   (generated)
   "build/Prueba1.aux"
